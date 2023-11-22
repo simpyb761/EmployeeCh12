@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6h7hx3U6TN9Rx364ji6x6GkOkq0vcqJnwrolcrjElWqAzx8rAGph1YJ1CZiSD9UAaFdHLOxQaqJRi4Q7oOEmg==",
+  "dgSpecHash": "k7h7O2evUap4hOx6er049pirRZ7mbTd2wN9ZCGSikNLW0T5JyrIP6eUTmuTJ6U2aeiAOG6BKLIEkGdgsexCE/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simpy\\OneDrive\\Documents\\GitHub\\cit218\\EmployeesCh12\\EmployeesCh12.csproj",
+  "projectFilePath": "C:\\Users\\simpy\\OneDrive\\Documents\\GitHub\\cit218\\EmployeeCh12\\EmployeeCh12\\EmployeesCh12\\EmployeesCh12.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simpy\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\simpy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
